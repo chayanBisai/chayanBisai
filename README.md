@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Chayan Bisai
 
-<!--
-**chayanBisai/chayanBisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛡️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 SRM Institute of Science and Technology
+
+📚 B.Tech CSE
+
+🔐 Cybersecurity Ethical Hacker
+
+🌐 Network Security Researcher
+
+---
+
+## 🚀 Featured Project
+
+### Machine Learning Based Intrusion Detection System (IDS)
+
+✅ Live Packet Capture
+
+✅ Random Forest Machine Learning
+
+✅ Streamlit Dashboard
+
+✅ Email Alert System
+
+✅ SQLite Database
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 👀 Visitor Counter
+
+---
+
+## 💻 Technologies
+
+Python • Machine Learning • Cybersecurity • Network Security • SQLite • Streamlit
+
+---
+
+⭐ Thanks for visiting my profile!
