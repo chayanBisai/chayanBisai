@@ -69,9 +69,11 @@
 
 # 🏆 ACHIEVEMENTS
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=chayanBisai\&theme=algolia\&no-frame=true\&margin-w=10)
+# 🏆 ACHIEVEMENTS
 
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chayanBisai&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
 # 💻 TECHNOLOGIES
 
