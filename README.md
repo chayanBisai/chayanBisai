@@ -14,7 +14,8 @@
 
 ---
 
-# 🛡️ ABOUT ME
+# <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/c41156d9-0561-4e85-8f23-c39fd70e73f6" />
+ ABOUT ME
 
 <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d4aDVlYTR4dHdxd2dzMnNvMTRxNjg2cWdldGJ6M2xwYzU4aHVpNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
