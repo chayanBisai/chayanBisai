@@ -61,6 +61,7 @@ MAXIMUM
 <img width="500" src="https://github.com/user-attachments/assets/ec70414f-ad84-4204-9448-62ff755d5c03" />
 </p>
 ## Machine Learning Based Intrusion Detection System (IDS)
+
 ✅ Live Packet Capture
 
 ✅ Random Forest Machine Learning
