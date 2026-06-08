@@ -27,15 +27,8 @@
 ---
 
 ---
-
 <p align="center">
-<img width="700" src="https://github.com/user-attachments/assets/ec70414f-ad84-4204-9448-62ff755d5c03" />
-</p>
-
-<h1 align="center">⚡ CYBER SECURITY CONTROL PANEL ⚡</h1>
-
-<p align="center">
-<img width="500" src="https://github.com/user-attachments/assets/ec70414f-ad84-4204-9448-62ff755d5c03" />
+<img width="600" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </p>
 
 ```diff
