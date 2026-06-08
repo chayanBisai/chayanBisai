@@ -12,7 +12,7 @@
 
 ---
 
-# <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/2d1437b8-cb61-4ac7-b929-fa03f29f6915" />
+# <img width="200" height="200" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/2d1437b8-cb61-4ac7-b929-fa03f29f6915" />
  ABOUT ME
 
 <img align="right" width="250" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
