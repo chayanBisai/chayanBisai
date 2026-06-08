@@ -23,18 +23,17 @@
 
 🔐 Cybersecurity Ethical Hacker
 
-🌐 Network Security Researcher
-
 🛡️ Network Defense & Security
-
-🚀 Passionate about Ethical Hacking and Cybersecurity
-
 ---
 
 ---
 
 <p align="center">
 <img width="600" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</p>
+
+<p align="center">
+<img width="500" src="https://github.com/user-attachments/assets/ec70414f-ad84-4204-9448-62ff755d5c03" />
 </p>
 
 # 💻 CYBER TERMINAL
@@ -46,16 +45,13 @@
 ```
 
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 USER      : CHAYAN BISAI
 ROLE      : Cybersecurity Ethical Hacker
-STATUS    : ONLINE <img width="500" height="281" alt="fbaed725384057 56344770d122d" src="https://github.com/user-attachments/assets/ec70414f-ad84-4204-9448-62ff755d5c03" />
-
+STATUS    : ONLINE 🟢
 LOCATION  : India
 FOCUS     : Network Security
 PROJECT   : Intrusion Detection System
 MISSION   : Secure Digital Infrastructure
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ```bash
@@ -74,6 +70,7 @@ root@cyberlab:~$ system_status
 root@cyberlab:~$ access
 ACCESS GRANTED ✓
 ```
+
 # 🚀 FEATURED PROJECT
 
 ## Machine Learning Based Intrusion Detection System (IDS)
