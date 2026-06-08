@@ -6,7 +6,8 @@
 
 ---
 
-## 🛡️ About Me
+## <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/5a8d77e0-f53b-41f4-8f93-c02c3613cd54" />
+ About Me
 
 🎓 SRM Institute of Science and Technology
 
@@ -15,8 +16,6 @@
 🔐 Cybersecurity Ethical Hacker
 
 🌐 Network Security Researcher
-
-🤖 Machine Learning Developer
 
 🛡️ Intrusion Detection System Developer
 
