@@ -14,7 +14,7 @@
 
 ---
 
-# <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/e555beeb-f4ff-4c36-b0e4-7d1e8c3f75e5" />
+# <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/8b76a9af-995c-4562-983b-6e2eaaf05fb0" />
  ABOUT ME
 
 <img align="right" width="250" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
@@ -69,11 +69,41 @@
 
 # 🏆 ACHIEVEMENTS
 
-# 🏆 ACHIEVEMENTS
+🥇 Machine Learning Based Intrusion Detection System (IDS)
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chayanBisai&theme=radical&no-frame=true&margin-w=15" />
-</p>
+🥈 Real-Time Network Traffic Monitoring
+
+🥉 Streamlit Security Dashboard Development
+
+🏅 SQLite Security Event Logging
+
+🎖️ Network Security Research
+
+⚡ Cybersecurity Ethical Hacking
+
+---
+
+# 🖥️ SYSTEM STATUS
+
+```yaml
+Name: Chayan Bisai
+Role: Cybersecurity Ethical Hacker
+Status: Online
+Focus: Network Security
+Project: Intrusion Detection System
+University: SRM Institute of Science and Technology
+```
+
+---
+
+# ⚡ CYBER SECURITY QUOTE
+
+```diff
++ Security is not a product,
++ it is a process.
+```
+
+---
 
 # 💻 TECHNOLOGIES
 
