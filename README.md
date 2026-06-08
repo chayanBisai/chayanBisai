@@ -17,8 +17,6 @@
 
 🌐 Network Security Researcher
 
-🛡️ Intrusion Detection System Developer
-
 ---
 
 ## 🚀 Featured Project
