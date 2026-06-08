@@ -10,7 +10,8 @@
 
 ---
 
-## 🛡️ About Me
+## <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/bb8cb6b5-e893-468f-b422-e2d30205563c" />
+ About Me
 
 🎓 SRM Institute of Science and Technology
 
