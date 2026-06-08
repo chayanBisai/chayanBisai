@@ -35,7 +35,7 @@
 <h1 align="center">⚡ CYBER SECURITY CONTROL PANEL ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=SYSTEM+ONLINE;THREAT+MONITORING+ACTIVE;NETWORK+SECURITY+ENABLED;ACCESS+GRANTED" />
+<img width="500" src="https://github.com/user-attachments/assets/ec70414f-ad84-4204-9448-62ff755d5c03" />
 </p>
 
 ```diff
