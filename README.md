@@ -31,25 +31,48 @@
 
 ---
 
-# 💻 TERMINAL
-
-```bash
-$ whoami
-Chayan Bisai
-
-$ role
-Cybersecurity Ethical Hacker
-
-$ focus
-Network Security
-Intrusion Detection Systems
-
-$ status
-ONLINE
-```
-
 ---
 
+<p align="center">
+<img width="600" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+</p>
+
+# 💻 CYBER TERMINAL
+
+```diff
++ SYSTEM ONLINE...
++ AUTHENTICATION SUCCESSFUL
++ ACCESS GRANTED
+```
+
+```yaml
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+USER      : CHAYAN BISAI
+ROLE      : Cybersecurity Ethical Hacker
+STATUS    : ONLINE 🟢
+LOCATION  : India
+FOCUS     : Network Security
+PROJECT   : Intrusion Detection System
+MISSION   : Secure Digital Infrastructure
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+```bash
+root@cyberlab:~$ whoami
+Chayan Bisai
+
+root@cyberlab:~$ skills
+Network Security
+Ethical Hacking
+Vulnerability Assessment
+Machine Learning Security
+
+root@cyberlab:~$ system_status
+[████████████████████] 100%
+
+root@cyberlab:~$ access
+ACCESS GRANTED ✓
+```
 # 🚀 FEATURED PROJECT
 
 ## Machine Learning Based Intrusion Detection System (IDS)
