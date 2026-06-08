@@ -1,17 +1,22 @@
-# 👨‍💻 CHAYAN BISAI
+# <div align="center">⚡ CHAYAN BISAI ⚡</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Cybersecurity+Ethical+Hacker;Network+Security+Researcher" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chayanBisai&color=00ffff&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Cybersecurity+Ethical+Hacker;Network+Security+Researcher;Bug+Bounty+Learner;Cyber+Defense+Enthusiast" />
+
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=chayanBisai\&style=for-the-badge\&color=blueviolet)
+
+</div>
 
 ---
 
-## <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/bb8cb6b5-e893-468f-b422-e2d30205563c" />
- About Me
+# 🛡️ ABOUT ME
+
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d4aDVlYTR4dHdxd2dzMnNvMTRxNjg2cWdldGJ6M2xwYzU4aHVpNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 🎓 SRM Institute of Science and Technology
 
@@ -21,27 +26,15 @@
 
 🌐 Network Security Researcher
 
----
+🛡️ Network Defense & Security
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chayanBisai&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=chayanBisai&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanBisai&layout=compact&theme=tokyonight" />
-</p>
+🚀 Passionate about Ethical Hacking and Cybersecurity
 
 ---
 
-## 🚀 Featured Project
+# 🚀 FEATURED PROJECT
 
-### 🛡️ Machine Learning Based Intrusion Detection System (IDS)
+## Machine Learning Based Intrusion Detection System (IDS)
 
 ✅ Live Packet Capture
 
@@ -57,7 +50,28 @@
 
 ---
 
-## 💻 Technologies & Tools
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=chayanBisai&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanBisai&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=chayanBisai&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chayanBisai&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 💻 TECHNOLOGIES
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
@@ -73,30 +87,38 @@
 
 ---
 
-## 🌟 Current Focus
+# 🎯 CURRENT FOCUS
 
 🔹 Network Security
 
 🔹 Intrusion Detection Systems
 
+🔹 Ethical Hacking
+
 🔹 Vulnerability Assessment
 
-🔹 Ethical Hacking
+🔹 Cyber Defense
 
 ---
 
-## 📫 Connect With Me
+# 📫 CONNECT WITH ME
 
-📧 Email: [chayanbisai43@gmail.com](mailto:chayanbisai43@gmail.com)
+📧 [chayanbisai43@gmail.com](mailto:chayanbisai43@gmail.com)
 
-🔗 LinkedIn: https://www.linkedin.com/in/chayan-bisai-1079532a1
+🔗 https://www.linkedin.com/in/chayan-bisai-1079532a1
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+![snake gif](https://github.com/chayanBisai/chayanBisai/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 <div align="center">
 
-### 🚀 SECURE NETWORK • SECURE FUTURE 🚀
+# 🚀 SECURE NETWORK • SECURE FUTURE 🚀
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks For Visiting My Profile ⭐
 
 </div>
