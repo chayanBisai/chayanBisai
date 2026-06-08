@@ -1,20 +1,18 @@
-# <div align="center">⚡ CHAYAN BISAI ⚡</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,50:004e92,100:00ffff&text=CHAYAN%20BISAI&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<div align="center">
-
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Cybersecurity+Ethical+Hacker;Network+Security+Researcher;Bug+Bounty+Learner;Cyber+Defense+Enthusiast" />
+</p>
 
-</div>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=chayanBisai\&style=for-the-badge\&color=blueviolet)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chayanBisai&style=for-the-badge&color=blueviolet" />
+</p>
 
 ---
 
-# <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/8b76a9af-995c-4562-983b-6e2eaaf05fb0" />
+# <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/2d1437b8-cb61-4ac7-b929-fa03f29f6915" />
  ABOUT ME
 
 <img align="right" width="250" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
@@ -30,6 +28,25 @@
 🛡️ Network Defense & Security
 
 🚀 Passionate about Ethical Hacking and Cybersecurity
+
+---
+
+# 💻 TERMINAL
+
+```bash
+$ whoami
+Chayan Bisai
+
+$ role
+Cybersecurity Ethical Hacker
+
+$ focus
+Network Security
+Intrusion Detection Systems
+
+$ status
+ONLINE
+```
 
 ---
 
@@ -54,7 +71,7 @@
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chayanBisai&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=chayanBisai&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -67,41 +84,27 @@
 
 ---
 
+# 📈 CONTRIBUTION GRAPH
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chayanBisai&theme=tokyo-night" />
+</p>
+
+---
+
 # 🏆 ACHIEVEMENTS
 
-🥇 Machine Learning Based Intrusion Detection System (IDS)
+🥇 Machine Learning Based Intrusion Detection System
 
-🥈 Real-Time Network Traffic Monitoring
+🥈 Real-Time Network Monitoring
 
-🥉 Streamlit Security Dashboard Development
+🥉 Security Dashboard Development
 
-🏅 SQLite Security Event Logging
+🏅 SQLite Event Logging
 
 🎖️ Network Security Research
 
-⚡ Cybersecurity Ethical Hacking
-
----
-
-# 🖥️ SYSTEM STATUS
-
-```yaml
-Name: Chayan Bisai
-Role: Cybersecurity Ethical Hacker
-Status: Online
-Focus: Network Security
-Project: Intrusion Detection System
-University: SRM Institute of Science and Technology
-```
-
----
-
-# ⚡ CYBER SECURITY QUOTE
-
-```diff
-+ Security is not a product,
-+ it is a process.
-```
+⚡ Ethical Hacking Projects
 
 ---
 
@@ -121,15 +124,24 @@ University: SRM Institute of Science and Technology
 
 ---
 
-# 🎯 CURRENT FOCUS
+# ⚡ CYBER SECURITY QUOTE
+
+```diff
++ Security is not a product.
++ Security is a process.
+```
+
+---
+
+# 🎯 CURRENT MISSION
 
 🔹 Network Security
 
 🔹 Intrusion Detection Systems
 
-🔹 Ethical Hacking
-
 🔹 Vulnerability Assessment
+
+🔹 Ethical Hacking
 
 🔹 Cyber Defense
 
@@ -150,3 +162,7 @@ University: SRM Institute of Science and Technology
 ### ⭐ Thanks For Visiting My Profile ⭐
 
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00ffff" />
+</p>
