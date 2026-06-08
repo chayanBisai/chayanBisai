@@ -14,10 +14,10 @@
 
 ---
 
-# <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/c41156d9-0561-4e85-8f23-c39fd70e73f6" />
+# <img width="319" height="319" alt="WhatsApp Image 2023-12-07 at 4 08 32 PM (1)" src="https://github.com/user-attachments/assets/e555beeb-f4ff-4c36-b0e4-7d1e8c3f75e5" />
  ABOUT ME
 
-<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d4aDVlYTR4dHdxd2dzMnNvMTRxNjg2cWdldGJ6M2xwYzU4aHVpNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" width="250" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 🎓 SRM Institute of Science and Technology
 
@@ -54,21 +54,22 @@
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=chayanBisai&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanBisai&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chayanBisai&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=chayanBisai&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=chayanBisai&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayanBisai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 # 🏆 ACHIEVEMENTS
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chayanBisai&theme=tokyonight&row=1&column=6"/>
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=chayanBisai\&theme=algolia\&no-frame=true\&margin-w=10)
 
 ---
 
@@ -107,12 +108,6 @@
 📧 [chayanbisai43@gmail.com](mailto:chayanbisai43@gmail.com)
 
 🔗 https://www.linkedin.com/in/chayan-bisai-1079532a1
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-![snake gif](https://github.com/chayanBisai/chayanBisai/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
