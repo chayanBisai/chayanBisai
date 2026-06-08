@@ -49,7 +49,8 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 USER      : CHAYAN BISAI
 ROLE      : Cybersecurity Ethical Hacker
-STATUS    : ONLINE 🟢
+STATUS    : ONLINE <img width="500" height="281" alt="fbaed725384057 56344770d122d" src="https://github.com/user-attachments/assets/ec70414f-ad84-4204-9448-62ff755d5c03" />
+
 LOCATION  : India
 FOCUS     : Network Security
 PROJECT   : Intrusion Detection System
